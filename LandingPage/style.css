@@ -1,0 +1,4 @@
+.carousel-indicators [data-bs-target]{
+    border-radius: 66%;
+    width: 0.4%;
+}
